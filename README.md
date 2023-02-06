@@ -1,1 +1,2 @@
-# SUNY_Poly_NCS590
+# SUNY_Poly_NCS590 - Machine Learning
+# Lab work by TR Murphy murphyt4@sunypoly.edu
